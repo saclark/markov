@@ -1,0 +1,2 @@
+# Fun With Markov Chains
+Most of the code in here is from the [golang Markov chain codewalk](https://golang.org/doc/codewalk/markov). However, I did modify it to incrementally write the result to a buffered stdout.
